@@ -2,11 +2,11 @@
 
 ## Members
 
-Isabel Vieira - up201907399
-João Baltazar - up201905616
-Nuno Costa - up201906272
-Pedro Gonçalo Correia - up201905348
-Pedro Silva - up201907523
+ - Isabel Vieira - up201907399
+ - João Baltazar - up201905616
+ - Nuno Costa - up201906272
+ - Pedro Gonçalo Correia - up201905348
+ - Pedro Silva - up201907523
 ...
 
 # SASS - Schedule Assistant
