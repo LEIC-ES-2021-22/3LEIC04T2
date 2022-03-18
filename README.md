@@ -15,7 +15,7 @@
 
 For FEUP students, who need to apply for class attendance schedules at the start of each semester, SASS is a UNI app tool that helps them to quickly and easily plan and submit their schedule preferences. 
 
-Unlike SIGARRA, our product offers a more intuitive and convenient interface, with schedule planning before the registration period, smart generation, and automatic submission.
+Unlike SIGARRA, our product offers schedule planning before the registration period, along with smart generation and automatic submission - all neatly packaged in a more intuitive and convenient interface.
 
 ## Main Features
 
