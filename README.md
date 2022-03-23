@@ -15,10 +15,10 @@ Welcome to the documentation pages of SASS!
 You can find here detailed information about the product, from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of RUP): 
 
 * Business modeling 
-  * [Product Vision]
+  * [Product Vision](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/product_vision.md)
   * [Elevator Pitch]
-* [Requirements]
-  * [Use Case Model]
+* [Requirements](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/requirements.md)
+  * [Use Case Model](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/requirements.md#use-case-model)
   * [User stories]
   * [Domain model]
 * [Architecture and Design]
