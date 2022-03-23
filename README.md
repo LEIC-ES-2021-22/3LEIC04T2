@@ -7,28 +7,27 @@
  - Nuno Costa - up201906272
  - Pedro Gonçalo Correia - up201905348
  - Pedro Silva - up201907523
-...
 
 # SASS - Schedule Assistant
 
-## Vision Statement
+Welcome to the documentation pages of SASS!
 
-For FEUP students, who need to apply for class attendance schedules at the start of each semester, SASS is a UNI app tool that helps them to quickly and easily plan and submit their schedule preferences. 
+You can find here detailed information about the product, from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of RUP): 
 
-Unlike SIGARRA, our product offers schedule planning before the registration period, along with smart generation and automatic submission - all neatly packaged in a more intuitive and convenient interface.
+* Business modeling 
+  * [Product Vision]
+  * [Elevator Pitch]
+* [Requirements]
+  * [Use Case Model]
+  * [User stories]
+  * [Domain model]
+* [Architecture and Design]
+  * [Logical architecture]
+  * [Physical architecture]
+  * [Prototype]
+* [Implementation]
+* [Test]
+* [Configuration and change management]
+* [Project management]
 
-## Main Features
-
-- Schedule planning - Select and experiment different combinations of classes, even before class registration is opened.
-- Multiple options - Create multiple alternative schedules ordered by preference.
-- Intuitively adjust options - Easily select and jump between alternative schedules, reorder, copy and delete alternatives, and assign a name to each alternative to serve as a mnemonic.
-- Overlap detection - Detect and signal overlapping classes, but still allow the user to select them.
-- Automatic generation - Automatically generate a schedule that respects the constraints the user imposes.
-- Course inference - Retrieve from SIGARRA the courses the user is enrolled on, instead of manually specifying which courses to register in classes.
-- Choice submission - Submit the current list of preferences to SIGARRA directly from the app.
-- Registration period dates - Conveniently check the dates when class registration period starts and ends for the user.
-- Automatic submission - Set the app to automatically submit the current list of preferences as soon as class registration is allowed in SIGARRA.
-
-## Assumptions and dependencies
-
-- SIGARRA API to retrieve student course enrollments, class timetable, and class registration periods, as well as to submit class registration options.
+---
