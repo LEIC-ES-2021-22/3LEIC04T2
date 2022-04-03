@@ -77,3 +77,16 @@
 | Postconditions | <ul><li>The schedule application is submitted as soon as possible every time it is updated.</li></ul> |
 | Normal flow | <ol><li>The student accesses the "Class Registration" section of the UNI app.</li><li>The system shows a checkbox to activate automatic submission next to the submit button.</li><li>The student activates the automatic submission by ticking the box.</li><li>The system warns that any schedule with errors will be skipped by automatic submissions.</li><li>The user confirms the automatic submission activation.</li><li>The system will submit the user preferences and any future updates to them from now on as soon as it is permitted on SIGARRA.</li></ol> |
 | Alternative flows and exceptions | <ol><li>[Cancel automatic submission] In step 2, if automatic submission is activated, the box will be checked and instead of step 3 and the following steps, the user may untick the box to stop automatic submission.</li></ol> |
+
+## Domain model
+
+<p align="center" justify="center">
+    <img src="https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/images/domainmodel.png"/>
+</p>
+
+Students using SASS manage lists of schedule preferences, each for a given semester. A **PreferenceList** is an ordered list of **Schedule** options made by the student, from the most preferred **Schedule** to the least preferred **Schedule**. Each **Schedule** has a name and the list of chosen **Class**es, and can be marked as a draft so that it is skipped when submitting the preferences.
+
+Each **PreferenceList** is associated to **SelectedCourse**s, a list of **Course**s in which the student is enrolled and whose **Classes** they wish to frequent. A **Course** is a curricular unit, having a name, acronym, code and semester it is occurring in. Each **Course** belongs to the syllabus of a **Degree**. Each **Degree** has a name and acronym, and is associated with the **SubmissionWindow**s of each class registration application phase, during which application submission is allowed.
+
+A **Class** has a name and **ClassPeriod**s, which are the periods of time in the schedule when the students in that **Class** are having lessons. Each **ClassPeriod** has a teacher, classroom, and the weekday as well as begin and end times of that period. A **ClassPeriod** may be a **TheoreticalClass**, **PracticalClass**, **TheoreticalPraticalClass**, **LabClass**, **PracticalLabClass**, and **OrientationClass**.
+

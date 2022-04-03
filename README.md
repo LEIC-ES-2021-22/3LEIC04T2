@@ -16,11 +16,11 @@ You can find here detailed information about the product, from a high-level visi
 
 * Business modeling 
   * [Product Vision](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/product_vision.md)
-  * [Elevator Pitch]
+  * [Elevator Pitch](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/elevator_pitch.md)
 * [Requirements](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/requirements.md)
   * [Use Case Model](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/requirements.md#use-case-model)
-  * [User stories]
-  * [Domain model]
+  * [User stories](https://github.com/LEIC-ES-2021-22/3LEIC04T2/issues?q=label%3A%22user+story%22+sort%3Aupdated-desc+)
+  * [Domain model](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/requirements.md#domain-model)
 * [Architecture and Design]
   * [Logical architecture]
   * [Physical architecture]
