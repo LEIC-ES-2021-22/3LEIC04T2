@@ -21,10 +21,10 @@ You can find here detailed information about the product, from a high-level visi
   * [Use Case Model](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/requirements.md#use-case-model)
   * [User stories](https://github.com/LEIC-ES-2021-22/3LEIC04T2/issues?q=label%3A%22user+story%22+sort%3Aupdated-desc+)
   * [Domain model](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/requirements.md#domain-model)
-* [Architecture and Design]
-  * [Logical architecture]
-  * [Physical architecture]
-  * [Prototype]
+* [Architecture and Design](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/architecture_and_design.md)
+  * [Logical architecture](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/architecture_and_design.md#logical-architecture)
+  * [Physical architecture](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/architecture_and_design.md#physical-architecture)
+  * [Prototype](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/architecture_and_design.md#vertical-prototype)
 * [Implementation]
 * [Test]
 * [Configuration and change management]
