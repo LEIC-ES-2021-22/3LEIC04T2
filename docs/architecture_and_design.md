@@ -42,7 +42,7 @@ Since there are no substantial SASS features implemented in the iteration 0, thi
     <td><img src="https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/images/VP_credits.jpg"></td>
   </tr>
   <tr>
-    <td>Navigation drawer with "Class registration" option</td>
-    <td>Class registration page with credits</td>
+    <td>Navigation drawer with "Class registration" option.</td>
+    <td>Class registration page with credits.</td>
   </tr>
 </table>
