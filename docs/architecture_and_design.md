@@ -8,7 +8,7 @@ SASS is integrated in the UNI application, which is structured around the MVC ar
     <img src="https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/images/logical_architecture.png"/>
 </p>
 
-The **SASS** project is designed to be contained and integrated with the **UNI** app. It follows the MVC architectural pattern adapted to the flutter framework and the current UNI design decisions. The view uses the model state and also sometimes the controller methods to handle its inner state when reacting to user events. The controller depends on the model to create and update the model state. The controller uses the SIGARRA API to fetch and send data to SIGARRA.
+The **SASS** project is designed to be contained and integrated with the **UNI** app. It follows the MVC architectural pattern adapted to the Flutter framework and the current UNI design decisions. The view uses the model state and also sometimes the controller methods to handle its inner state when reacting to user events. The controller depends on the model to create and update the model state. The controller uses the SIGARRA API to fetch and send data to SIGARRA.
 
 The **view** package includes the visual widgets (stateful and stateless) of the app, namely the pages of SASS on the app. There is a page for class registration, course selection, schedule planning and restrictions selection.
 
