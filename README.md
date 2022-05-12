@@ -25,9 +25,9 @@ You can find here detailed information about the product, from a high-level visi
   * [Logical architecture](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/architecture_and_design.md#logical-architecture)
   * [Physical architecture](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/architecture_and_design.md#physical-architecture)
   * [Prototype](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/architecture_and_design.md#vertical-prototype)
-* [Implementation]
-* [Test]
+* [Implementation](https://github.com/Goncalerta/project-schrodinger/tree/develop/app_feup)
+* [Test](https://github.com/Goncalerta/project-schrodinger/tree/develop/app_feup/test)
 * [Configuration and change management]
-* [Project management]
+* [Project management](https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/docs/project_management.md)
 
 ---
