@@ -78,6 +78,12 @@
 | Normal flow | <ol><li>The student accesses the "Class Registration" section of the UNI app.</li><li>The system shows a checkbox to activate automatic submission next to the submit button.</li><li>The student activates the automatic submission by ticking the box.</li><li>The system warns that any schedule with errors will be skipped by automatic submissions.</li><li>The user confirms the automatic submission activation.</li><li>The system will submit the user preferences and any future updates to them from now on as soon as it is permitted on SIGARRA.</li></ol> |
 | Alternative flows and exceptions | <ol><li>[Cancel automatic submission] In step 2, if automatic submission is activated, the box will be checked and instead of step 3 and the following steps, the user may untick the box to stop automatic submission.</li></ol> |
 
+## UI Mockups
+
+The Figma file with all the UI Mockups is presented below. It is possible to see the page flow using Figma's presentation feature.
+
+https://www.figma.com/file/DDAZTuVdwik89Y9P1nRDp4/SASS?node-id=0%3A1
+
 ## Domain model
 
 <p align="center" justify="center">
