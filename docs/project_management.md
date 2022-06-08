@@ -5,7 +5,7 @@
     - [v0.1 (Iteration 0)](https://github.com/LEIC-ES-2021-22/3LEIC04T2/releases/tag/v0.1)
     - [v0.2 (Iteration 1)](https://github.com/LEIC-ES-2021-22/3LEIC04T2/releases/tag/v0.2)
     - [v0.3 (Iteration 2)](https://github.com/LEIC-ES-2021-22/3LEIC04T2/releases/tag/v0.3)
-    - [v0.4 (Iteration 3)]
+    - [v0.4 (Iteration 3)](https://github.com/LEIC-ES-2021-22/3LEIC04T2/releases/tag/v0.4)
 
 ## Iteration 1
 
@@ -84,7 +84,7 @@ Backlog at the end of the iteration:
 
 ### Release
 
-[v0.3](https://github.com/LEIC-ES-2021-22/3LEIC04T2/releases/tag/v0.3)
+[v0.4](https://github.com/LEIC-ES-2021-22/3LEIC04T2/releases/tag/v0.4)
 
 ### Plans
 
@@ -93,3 +93,23 @@ Backlog at the start of the iteration:
 <p align="center" justify="center">
     <img src="https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/images/backlog3_start.png"/>
 </p>
+
+Backlog at the end of the iteration:
+
+<p align="center" justify="center">
+    <img src="https://github.com/LEIC-ES-2021-22/3LEIC04T2/blob/main/images/backlog3_end.png"/>
+</p>
+
+### Retrospectives
+
+#### What went well
+
+- TODO
+
+#### What went poorly
+
+- TODO
+
+#### Obstacles along the way
+
+- TODO
