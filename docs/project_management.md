@@ -104,12 +104,17 @@ Backlog at the end of the iteration:
 
 #### What went well
 
-- TODO
+- Delivers a good product with value to the user and supporting the main features.
+- Implementation well tested with no known bugs.
+- Good group dynamic, communication and teamwork.
 
 #### What went poorly
 
-- TODO
+- The number of incomplete tasks in the iteration backlog was high.
 
 #### Obstacles along the way
 
-- TODO
+- The deadline of the iteration was too close to the deadlines of other projects in different curricular units, with an heavy impact to the amount of time we could dedicate to this project.
+- Implementation of acceptance tests with Gherkin implied updating the flutter SDK. However, this meant changing a lot of code in the original code base, as it used methods that are deprecated in newer versions and wouldn't pass the CI because of lints. Things like the project colors theme were affected by flutter changes. This involved a significant and unexpected amount of work.
+- Existing backend of SIGARRA was lacking, with low to no support of the fetches required by our app. In fact, in most cases the only way to get the needed data was to scrap a HTML page. This meant that it was not possible to substitute the mock data with real data from SIGARRA, although a significant portion of the time and effort in this iteration was dedicated to this. Since we couldn't overcome this difficulty, we isolated the mock data in such a way that, if backend were to be implemented for our features, the mock data could easily be substituted with calls to that backend without changing the structure of the project.
+- During the work on the iteration, we spotted small bugs that needed fixing and necessary polishing of the existing interface. The cummulative work on those small fixes (that were too small to include in the backlog) also took away some of the time we had dedicated to the iteration.
